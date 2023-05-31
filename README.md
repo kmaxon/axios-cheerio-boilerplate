@@ -1,0 +1,1 @@
+quotes.js is a boilerplate for javascript webscraping with axios, cheerio and fs
